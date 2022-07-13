@@ -1,6 +1,7 @@
 Main scene to testing in Assets/Scenes/MainScene.unity
 
 - Movement: WASD
+- Run: Left shift
 - Pick up an item: E
 - Drop the item: Q
 - Fight: Left click
